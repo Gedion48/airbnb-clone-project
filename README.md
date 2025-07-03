@@ -97,3 +97,54 @@ Understanding the color styles and typography from a Figma mockup is essential b
 | **Scrum Master**       | Facilitate daily standups, remove blockers, ensure adherence to Agile practices  |
 
 Each role is critical to the project’s success. Clear communication and accountability ensure the final product meets both user and business goals.
+
+## 🧩 UI Component Patterns
+
+In this project, reusable and modular UI components will be created to build a consistent and maintainable interface across the application. These components follow modern frontend best practices and are designed for responsiveness and accessibility.
+
+### 🔧 Planned Components
+
+---
+
+### 🧭 Navbar
+
+- Displays the application logo, navigation links (Home, Listings, Bookings, Profile).
+- Includes a responsive hamburger menu for mobile view.
+- Contains a search input field (optional) and user account dropdown.
+
+---
+
+### 🏘️ Property Card
+
+- Displays key property information in a clean, card-style format.
+- Includes image, title, location, price, and a rating or favorite icon.
+- Designed to be clickable and lead to the detailed property page.
+- Responsive grid layout on desktop and mobile.
+
+---
+
+### 📜 Footer
+
+- Contains important links such as About, Contact, Terms of Service, and Privacy Policy.
+- Displays company information and optional social media icons.
+- Stays consistent across all pages and fits the color/design theme.
+
+---
+
+### ➕ Additional Components (planned)
+
+- **Button:** Reusable primary and secondary styled buttons for actions like “Book Now” or “Submit”.
+- **Booking Summary Card:** Displays selected dates, property price, and total cost during checkout.
+- **Image Carousel:** Scrollable image gallery for detailed property views.
+- **Search/Filter Bar:** Allows users to filter listings by location, price range, and property type.
+
+---
+
+These components will be developed with:
+- **Component-based architecture** (React)
+- **Mobile-first design principles**
+- **Accessibility (WCAG) compliance**
+- **Separation of logic and presentation**
+
+By designing UI elements as reusable components, the development process becomes more efficient and the user experience remains consistent across the entire application.
+
