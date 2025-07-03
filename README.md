@@ -83,3 +83,17 @@ Understanding the color styles and typography from a Figma mockup is essential b
 - Makes it easier to maintain and update the design system.
 - Contributes to better **user experience (UX)** by keeping elements aligned with branding and usability principles.
 
+## 👥 Project Roles and Responsibilities
+
+| Role              | Responsibilities                                                                 |
+|-------------------|-----------------------------------------------------------------------------------|
+| **Project Manager**    | Oversees timeline, coordinates team tasks, ensures on-time delivery                |
+| **Frontend Developers**| Build UI components using React, ensure responsive and accessible design         |
+| **Backend Developers** | Develop API endpoints, handle business logic and database interactions          |
+| **Designers**          | Design wireframes and prototypes using Figma, maintain visual consistency       |
+| **QA/Testers**         | Write and execute test cases, report bugs, validate functionality               |
+| **DevOps Engineers**   | Manage CI/CD pipelines, deployment infrastructure, and monitor performance      |
+| **Product Owner**      | Define product vision, gather requirements, and prioritize features              |
+| **Scrum Master**       | Facilitate daily standups, remove blockers, ensure adherence to Agile practices  |
+
+Each role is critical to the project’s success. Clear communication and accountability ensure the final product meets both user and business goals.
